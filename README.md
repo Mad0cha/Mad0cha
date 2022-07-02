@@ -8,7 +8,7 @@ Sou a Madalena!
 
 <h2>📌 De momento: </h2>
 
-__Faculdade de Ciências da Universidade de Lisboa__
+<b>Faculdade de Ciências da Universidade de Lisboa</b>
 
 - 3º Ano da licenciatura em Tecnologias de Informação
 <!-- - 🧬 Minor em Biologia -->
@@ -18,6 +18,14 @@ __Faculdade de Ciências da Universidade de Lisboa__
 <h2>⚡ Sobre mim:</h2>
 
 Blah Blah sobre mim ...
+
+<b>Tecnologias:</b>
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Python
+- Java
 
 <!-- - Email institucional: fc55853@alunos.fc.ul.pt -->
  
