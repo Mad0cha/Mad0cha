@@ -10,7 +10,7 @@ Sou a Madalena!
 
 __Faculdade de Ciências da Universidade de Lisboa__
 
-- 💻 3º Ano da licenciatura em Tecnologias de Informação
+- 3º Ano da licenciatura em Tecnologias de Informação
 <!-- - 🧬 Minor em Biologia -->
 - Minor ...
 
