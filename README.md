@@ -26,6 +26,9 @@ Blah Blah sobre mim ...
 - PHP
 - Python
 - Java
+- SQL 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mad0cha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - Email institucional: fc55853@alunos.fc.ul.pt -->
  
