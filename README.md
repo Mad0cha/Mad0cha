@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/Mad0cha">
-  <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Mad0cha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mad0cha&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Mad0cha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mad0cha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <h2>📌 De momento: </h2>
