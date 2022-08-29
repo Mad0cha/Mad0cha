@@ -19,7 +19,7 @@
  
 - 3º Ano da licenciatura em Tecnologias de Informação
 <!-- - 🧬 Minor em Biologia -->
-- Minor em ...
+- Minor em Biologia
 <br>
 <!-- End of Presentation -->
  
