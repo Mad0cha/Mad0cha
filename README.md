@@ -26,11 +26,11 @@
 <!-- About me -->
 <h2>⚡ Sobre mim:</h2>
 
-Gosto de resolver problemas de forma criativa e procuro juntar as várias áreas do conhecimento sempre que possível na vida e nos estudos.
+<-- Gosto de resolver problemas de forma criativa e procuro juntar as várias áreas do conhecimento sempre que possível na vida e nos estudos.
 
 Acredito que a aliança entre as Ciências da Vida e as Tecnologias de Informação, contribuirão cada vez mais para a transformação digital da ciência como um todo, sendo o meu desejo nesta área, desenvolver interfaces, dispositivos e ferramentas de comunicação que o permitam fazer.
 
-Tenho uma curiosidade geral para a vida e procuro sempre saber mais sobre todos os temas com que me deparo, dando o meu melhor em tudo e usando cada aprendizagem e experiência para me desenvolver e evoluir como ser humano.
+Tenho uma curiosidade geral para a vida e procuro sempre saber mais sobre todos os temas com que me deparo, dando o meu melhor em tudo e usando cada aprendizagem e experiência para me desenvolver e evoluir como ser humano. -->
 
 <br>
 <b>Tecnologias que estou a aprender:</b>
