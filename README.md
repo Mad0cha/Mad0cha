@@ -42,7 +42,7 @@ Tenho uma curiosidade geral para a vida e procuro sempre saber mais sobre todos 
 - Java
 - SQL  -->
 <p>
-  <img width="30%" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,mysql&theme=light" />
+  <img width="30%" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,mysql,git,r,octave&theme=light" />
 </p>
 <br> 
 <!-- End of About me -->
