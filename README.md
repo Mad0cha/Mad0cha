@@ -1,12 +1,10 @@
 <!-- Banner -->
 <!-- ![banner](https://user-images.githubusercontent.com/108576457/177002304-8dbf7ce7-092a-45cc-b2b4-3cce5c49d3e6.png) -->
-![Captura de ecrã 2022-07-02 141122](https://user-images.githubusercontent.com/108576457/177002329-d8d5690d-e811-4f1f-add8-3d1207a9036f.jpg)
+ ![Captura de ecrã 2022-07-02 141122](https://user-images.githubusercontent.com/108576457/177002329-d8d5690d-e811-4f1f-add8-3d1207a9036f.jpg) 
+<!-- ![banner](https://github.com/Mad0cha/Mad0cha/assets/108576457/15337b7a-9dce-4f26-b68e-c1be0728a3a2) -->
 
 <!-- Presentation -->
-<h2>Hi! 👋</h2>
-
-<h3>I'm Madalena!</h3>
-
+<h2>Hi, I'm Madalena!👋 </h2>
 <div align="center">
   <a href="https://github.com/Mad0cha">
   <img height="180em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=Mad0cha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -51,6 +49,12 @@ Tenho uma curiosidade geral para a vida e procuro sempre saber mais sobre todos 
   <img width="30%" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,mysql,git,r,octave&theme=light" />
 </p>
 <br> 
+<!--<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>-->
+
+
+<br>          
 <!-- End of About me -->
  
 <!-- Contacts -->
