@@ -6,8 +6,8 @@
 <!-- Presentation -->
 <h2>Hi, I'm Madalena!👋 </h2>
 
-### I'm a Master's Student in Cognitive Science @ [University of Lisbon](https://mcicog.edu.ciencias.ulisboa.pt/)
-who’s highly interested in exploring the intersection between the
+### I'm a Master's Student in [Cognitive Science](https://mcicog.edu.ciencias.ulisboa.pt/?lang=en) and an Assistant Researcher at [NLX](https://nlx.di.fc.ul.pt/)
+currently working on my master thesis, who’s highly interested in exploring the intersection between the
 human mind and technology, with a focus on improving the human experience through areas such
 as Human-Computer Interaction, Neuroscience, and Artificial Intelligence.
 
@@ -29,15 +29,24 @@ I like **developing** websites, **building** software, and **solving** problems 
 <small>(Faculty of Medicine, Faculty of Psychology, Faculty of Sciences and School of Arts and Humanities)</small> 
 
 - 1st year Master student in Cognitive Science -->
+<br>
+
 ## 📌 At the moment:
-Currently developing a diverse skill set in the scientific study of cognition, encompassing areas such as Philosophy, Computer Science,
+- Developing a diverse skill set in the scientific study of cognition, encompassing areas such as Philosophy, Computer Science,
 Linguistics, Neuroscience, and Psychology.
-> Main areas of interest: Neuroscience, Artificial Intelligence, Computational Modeling of Knowledge
+> **Main areas of interest:** Neuroscience, Artificial Intelligence, Computational Modeling of Knowledge
+
+- Researching a variety of topics within the field of natural language processing at [NLX - Natural Language and Speech Group](https://nlx.di.fc.ul.pt/) (Check out my [CienciaVitae](https://www.cienciavitae.pt//pt/F611-7D61-9963))
+> **Main topics:** Transformers, Encoders/Decoders, Diffusion models
+
+<br>
 
 ## 🎓 Education
 ➡️ Master's in Cognitive Science (2023-Present) - [University of Lisbon](https://mcicog.edu.ciencias.ulisboa.pt/) <br>
 ➡️ Bachelor's in Computer Science (2020-2023) - [Faculty of Sciences of the University of Lisbon](https://fenix.ciencias.ulisboa.pt/degrees/tecnologias-de-informacao-564500436615450) <br>
 ➡️ Minor in Biology (2022/2023) - [Faculty of Sciences of the University of Lisbon](https://fenix.ciencias.ulisboa.pt/degrees/minor-em-biologia-564500436615390/descricao)
+
+<br> 
 
 ## 💻 Tech Stack
 <!--<h2>⌛ Previously: </h2>
@@ -73,6 +82,8 @@ Tenho uma curiosidade geral para a vida e procuro sempre saber mais sobre todos 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>-->
        
 <!-- End of About me -->
+
+ <br>
  
 <!-- Contacts -->
 ## 📫 How to reach me:
