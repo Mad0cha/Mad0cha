@@ -7,7 +7,7 @@
 <h2>Hi, I'm Madalena!👋 </h2>
 
 ### I'm a Master's Student in [Cognitive Science](https://mcicog.edu.ciencias.ulisboa.pt/?lang=en) and an Assistant Researcher at [NLX](https://nlx.di.fc.ul.pt/)
-currently working on my master thesis, who’s highly interested in exploring the intersection between the
+currently working on my master thesis, and highly interested in exploring the intersection between the
 human mind and technology, with a focus on improving the human experience through areas such
 as Human-Computer Interaction, Neuroscience, and Artificial Intelligence.
 
