@@ -6,22 +6,22 @@
 <!-- Presentation -->
 <h2>Hi, I'm Madalena!👋 </h2>
 
-### I'm a Master's Student in [Cognitive Science](https://mcicog.edu.ciencias.ulisboa.pt/?lang=en) and an Assistant Researcher at [NLX](https://nlx.di.fc.ul.pt/)
-currently working on my master thesis, and highly interested in exploring the intersection between the
-human mind and technology, with a focus on improving the human experience through areas such
-as Human-Computer Interaction, Neuroscience, and Artificial Intelligence.
+My research focuses on multimodal AI, deep learning, generative models, and neural signal processing. 
+
+Over the past two years, I have worked on **EEG-to-image decoding**, adapting and improving an existing AI framework using **PyTorch**, **Transformers**, **Stable Diffusion**, and **CLIP**. My work has focused on multimodal representation learning, cross-subject generalization, and the evaluation of generative models.
 
 <!-- `Master Student in Cognitive Science` -->
 
-I like **developing** websites, **building** software, and **solving** problems creatively! <br> <br>
+I am particularly interested in multimodal AI, generative AI, NLP, computer vision, and the intersection of artificial intelligence with neuroscience and cognitive science. <br> <br>
 
 
 
-<div align="center">
-  <a href="https://github.com/Mad0cha">
+<!-- <div align="center"> -->
+  <!-- <a href="https://github.com/Mad0cha">
   <img height="180em" max-width="100%" src="https://github-readme-stats.vercel.app/api?username=Mad0cha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mad0cha&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  <img height="180em" max-width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mad0cha&layout=compact&langs_count=7&theme=tokyonight"/> -->
+ <!-- <img src="https://ghstats.dev/api/card?username=Mad0cha&theme=tokyonight&hide_border=true&hide_title=true" alt="GitHub Stats Card" /> -->
+<!-- </div> -->
 
 <!-- <h2>📌 At the moment: </h2> 
 
@@ -29,15 +29,16 @@ I like **developing** websites, **building** software, and **solving** problems 
 <small>(Faculty of Medicine, Faculty of Psychology, Faculty of Sciences and School of Arts and Humanities)</small> 
 
 - 1st year Master student in Cognitive Science -->
-<br>
+<!-- <br> -->
 
 ## 📌 At the moment:
-- Developing a diverse skill set in the scientific study of cognition, encompassing areas such as Philosophy, Computer Science,
+- Looking for my next big adventure!
+<!-- - Developing a diverse skill set in the scientific study of cognition, encompassing areas such as Philosophy, Computer Science,
 Linguistics, Neuroscience, and Psychology.
 > **Main areas of interest:** Neuroscience, Artificial Intelligence, Computational Modeling of Knowledge
 
 - Researching a variety of topics within the field of natural language processing at [NLX - Natural Language and Speech Group](https://nlx.di.fc.ul.pt/) (Check out my [CienciaVitae](https://www.cienciavitae.pt//pt/F611-7D61-9963))
-> **Main topics:** Transformers, Encoders/Decoders, Diffusion models
+> **Main topics:** Transformers, Encoders/Decoders, Diffusion models -->
 
 <br>
 
@@ -75,7 +76,12 @@ Tenho uma curiosidade geral para a vida e procuro sempre saber mais sobre todos 
 - Java
 - SQL  -->
 <p>
-  <img width="30%" src="https://skillicons.dev/icons?i=html,css,js,php,py,java,mysql,git,r,octave&theme=light" />
+  <img width="50%" src="https://skillicons.dev/icons?i=html,css,js,php,py,pytorch,tensorflow,java,mysql,git,r,octave,anaconda,gcp,docker,git,latex,linux,matlab,sklearn&theme=light" />
+</p>
+
+### Others
+<p>
+  <img width="16%" src="https://skillicons.dev/icons?i=ae,figma,ai,notion,ps&theme=light" />
 </p>
 <!--<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
